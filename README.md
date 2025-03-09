@@ -15,6 +15,3 @@ This Java-based Inventory Management System (IMS) is a simple application for ma
 
 The program presents a menu with options to manage warehouse inventory. Users can select options to add, remove, update, or display items, as well as generate a bill. The application takes user input via the console to perform these actions.
 
-## Perishable Items
-
-The system supports tracking perishable items by allowing users to specify an expiration date.
